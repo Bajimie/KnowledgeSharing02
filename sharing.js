@@ -1,4 +1,4 @@
-//program to find the largest among three numbers
+//program to find the largest among three numbers.
 // take input from the user
 const num1 = 5;
 const num2 = 9;
